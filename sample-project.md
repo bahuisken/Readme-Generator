@@ -5,7 +5,7 @@
 
 ## Description
 
-Thisi s the description
+This is the description
 
 ## Table of Contents (Optional)
 
