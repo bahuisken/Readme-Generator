@@ -66,7 +66,7 @@ ${data.contributing}\n
 ## Tests\n
 ${data.tests}\n
 ## Questions\n
-If you have any questions about the repo, open an issue or contact me directly at [${data.email}](mailto:${data.email}). You can find more of my work at [${data.github}](https://github.com/${data.github}/)`;
+If you have any questions about the application, contact me by email at [${data.email}](mailto:${data.email}). You can find more of my work at [${data.github}](https://github.com/${data.github}/)`;
 }
 
 module.exports = generateMarkdown;
