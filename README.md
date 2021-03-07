@@ -21,9 +21,11 @@ node index.js
 
 ## Usage
 
-Answer the prompts in the terminal. A Readme will be generated based on the input. See below for a video walkthrough of this application:
+Answer the prompts in the terminal. A Readme will be generated based on the input. 
 
-<iframe src="https://drive.google.com/file/d/1dECa9wjgv-Ze-dGGsF6OJXLuvdlZDiZ7/preview" width="640" height="480"></iframe>
+[Here is a sample README created with this Generator](sample-project.md)
+
+[Click here for a video walkthrough of this application](https://drive.google.com/file/d/1dECa9wjgv-Ze-dGGsF6OJXLuvdlZDiZ7/preview)
 
 ## Credits
 
